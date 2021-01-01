@@ -1,5 +1,7 @@
 AWS Lambda 
 
+* Lambda created not global , region bound only
+
 ### Free Usage**
 
 * 1M free requests per month
