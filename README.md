@@ -7,6 +7,8 @@ AWS Lambda
 
 ### Trigger
 
+```
 API Gateway : HTTP request 
 DynamoDB : import data to DynamoDB
 S3 : Files
+```
